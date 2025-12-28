@@ -1,0 +1,428 @@
+body {
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlOV9hX3NreV9maWxsZWRfd2l0aF9jbG91ZHNfYW5kX3N0YXJzX21hZGVfb2ZfY290dF85Nzk3Nzk0My0wMDJjLTQwYTQtYjk2NS0zNDUzNDZjNjRhMjBfMS5qcGc.jpg");
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(250, 235, 215, 0.603);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.container1 p {
+    color: rgb(2, 2, 2);
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 25%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.container1 button  {
+    color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 75%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: -5px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+
+    animation: flote2 2s ease 0s infinite alternate both;
+}
+.container1 button:hover {
+    color: rgb(26, 1, 31);
+}
+
+
+.container2 p {
+    color: rgb(2, 2, 2);
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-right: 25%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.container2 button  {
+    color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-right: 75%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: -5px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+
+    animation: flote2 2s ease 0s infinite alternate both;
+}
+.container2 button:hover {
+    color: rgb(27, 3, 32);
+}
+
+
+.container3 p {
+     color: rgb(2, 2, 2);
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 25%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.534);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.container3 button {
+    color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 75%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: -5px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+
+    animation: flote2 2s ease 0s infinite alternate both;
+}
+.container3 button:hover {
+    color: rgb(15, 1, 19);
+}
+
+
+.box1 p {
+    background-color: rgba(250, 235, 215, 0.603);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 9%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.box1 button {
+    color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 3px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.box1 button:hover {
+    color: rgba(16, 1, 17, 0.993);
+}
+.home {
+    display: block;
+}
+
+
+
+.container4 {
+    background: transparent;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 35%;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.596);
+
+    animation: rotate 3s ease 0s 1 normal both;
+}
+.container4 img {
+    height: 60%;
+    width: 60%;
+    border-radius: 10%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+.container4 p {
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box2 img {
+    border-radius: 15px;
+    height: 30%;
+    width: 30%;
+    margin-top: 5%;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.box2 p {
+    display: flex;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffffad;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.589);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.box2 button {
+     color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 70%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-bottom: 4%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.box2 button:hover {
+    color: rgba(16, 1, 17, 0.993);
+}
+.home2 {
+    display: none;
+}
+
+
+.container5 {
+    background: transparent;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 35%;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.596);
+
+    animation: rotate 3s ease 0s 1 normal both;
+}
+.container5 img {
+     height: 60%;
+    width: 60%;
+    border-radius: 10%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+.container5 p {
+     margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box3 img {
+    border-radius: 15px;
+    height: 30%;
+    width: 30%;
+    margin-top: 5%;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.box3 p {
+    display: flex;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffffad;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.589);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.box3 button {
+     color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 70%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-bottom: 4%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.box3 button:hover {
+    color: rgba(16, 1, 17, 0.993);
+}
+.home3 {
+    display: none;
+}
+
+
+.container6 {
+    background: transparent;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 35%;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.596);
+
+    animation: rotate 3s ease 0s 1 normal both;
+}
+.container6 img {
+     height: 60%;
+    width: 60%;
+    border-radius: 10%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+.container6 p {
+     margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box4 img {
+    border-radius: 15px;
+    height: 30%;
+    width: 30%;
+    margin-top: 5%;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.box4 p {
+    display: flex;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffffad;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.589);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.box4 button {
+     color: black;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    margin-left: 70%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 6px;
+    margin-bottom: 4%;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.486);
+}
+.box3 button:hover {
+    color: rgba(16, 1, 17, 0.993);
+}
+.home4 {
+    display: none;
+}
+
+
+.container7 {
+    background: transparent;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 45%;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.596);
+
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.container7 img {
+     height: 60%;
+    width: 60%;
+    border-radius: 10%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+.container7 p {
+     margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box5 button{
+    background-color: #faf7f791;
+    border-radius: 2cap;
+    margin-top: 25%;
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-bottom: 43%;
+
+}
+.box5 button:hover{
+    box-shadow: 0px 0px 40px rgb(236, 12, 49);
+}
+.home5 {
+    display: none;
+}
+
+
+.box6 img {
+    margin-top: 20%;
+    height: 70%;
+    width: 70%;
+    margin: 20%;
+    border-radius: 20px;
+    box-shadow:0px 20px 20px rgba(0, 0, 0, 0.822);
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.box7 img {
+    height: 70%;
+    width: 70%;
+    margin: 20%;
+    border-radius: 20px;
+    box-shadow:0px 20px 20px rgba(0, 0, 0, 0.822);
+    animation: flote 2s ease 0s infinite alternate both;
+}
+.container8 p {
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-bottom: 15%;
+    background-color: #ffffffd7;
+    border-radius: 10px;
+    animation: side-by-side 2s ease 0s infinite alternate both;
+}
+.home6 {
+    display: none;
+}
+
+
+
+/* keyfram for container, container2, container3, box6, box7*/
+@keyframes flote {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+/* keyfram for button of cont(1,2,3) */
+@keyframes flote2 {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+/* keyfram for container4,5,6 (rotate)*/
+@keyframes rotate {
+    0% {
+        transform: scale(0.2) rotate(0deg);
+    }
+    100% {
+        transform: scale(1.1) rotate(360deg);
+    }
+}
